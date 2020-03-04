@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
             this.gbKlient_Personal = new System.Windows.Forms.GroupBox();
@@ -142,21 +142,21 @@
             // 
             // chrExpencens
             // 
-            chartArea4.Name = "ChartArea1";
-            this.chrExpencens.ChartAreas.Add(chartArea4);
+            chartArea1.Name = "ChartArea1";
+            this.chrExpencens.ChartAreas.Add(chartArea1);
             this.chrExpencens.Dock = System.Windows.Forms.DockStyle.Fill;
-            legend4.Name = "Legend1";
-            this.chrExpencens.Legends.Add(legend4);
+            legend1.Name = "Legend1";
+            this.chrExpencens.Legends.Add(legend1);
             this.chrExpencens.Location = new System.Drawing.Point(3, 119);
             this.chrExpencens.Name = "chrExpencens";
-            series4.BackSecondaryColor = System.Drawing.Color.Transparent;
-            series4.BorderColor = System.Drawing.Color.White;
-            series4.ChartArea = "ChartArea1";
-            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series4.Color = System.Drawing.Color.Red;
-            series4.Legend = "Legend1";
-            series4.Name = "srExpens";
-            this.chrExpencens.Series.Add(series4);
+            series1.BackSecondaryColor = System.Drawing.Color.Transparent;
+            series1.BorderColor = System.Drawing.Color.White;
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series1.Color = System.Drawing.Color.Red;
+            series1.Legend = "Legend1";
+            series1.Name = "srExpens";
+            this.chrExpencens.Series.Add(series1);
             this.chrExpencens.Size = new System.Drawing.Size(759, 334);
             this.chrExpencens.TabIndex = 4;
             this.chrExpencens.Text = "chart1";

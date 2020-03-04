@@ -25,7 +25,7 @@ namespace Sale_App
         public static SqlConnection connection = new SqlConnection();
 
         /// <summary>
-        /// Так можно отдать ссылку на метод
+        /// Ссылка на метод
         /// </summary>
         public void SQL_Server_Configuration_get()
         {
