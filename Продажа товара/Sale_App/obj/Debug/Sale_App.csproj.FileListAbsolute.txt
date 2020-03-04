@@ -1,0 +1,10 @@
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\bin\Debug\Sale_App.exe.config
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\bin\Debug\Sale_App.exe
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\bin\Debug\Sale_App.pdb
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\obj\Debug\Sale_App.csprojAssemblyReference.cache
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\obj\Debug\Sale_App.Connection_Form.resources
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\obj\Debug\Sale_App.Properties.Resources.resources
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\obj\Debug\Sale_App.csproj.GenerateResource.cache
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\obj\Debug\Sale_App.exe
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\obj\Debug\Sale_App.pdb
+C:\Users\djart\Desktop\Sale_APP\Продажа товара\Sale_App\obj\Debug\Sale_App.Authorization_Form.resources
